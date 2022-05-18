@@ -3,7 +3,7 @@
   include_once "view/module/head.php";
   include_once "view/module/header.php";
   include_once "view/module/menu.php";
-
+ include_once "papu";
   if (isset($_GET["ruta"])){ 
     switch ($_GET["ruta"]) {
       case 'usuario':

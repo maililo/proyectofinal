@@ -1,5 +1,5 @@
 <?php
-
+una cosa cualquiera 
     //////CONTROLLER//////
 
     require_once "controller/user.controller.php";

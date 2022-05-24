@@ -1,5 +1,7 @@
+
 <?php
 
+<!---prueba 1---¡>
     //////CONTROLLER//////
 
     require_once "controller/user.controller.php";

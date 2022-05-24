@@ -1,5 +1,11 @@
+
 <?php
+
+
+<!---prueba 1---¡>
+
 una cosa cualquiera 
+
     //////CONTROLLER//////
 
     require_once "controller/user.controller.php";
